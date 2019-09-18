@@ -1,0 +1,43 @@
+a h1 {
+    width: 375px;
+  height: 80.9px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.5);
+  background-color: #009688;
+}
+
+.bar h1 {
+  width: 375px;
+  height: 64px;
+  background-color: #212121;
+}
+
+
+.MovieDetail {
+  width: 288px;
+  height: 30px;
+  font-family: Helvetica;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.MovieDetail .text-style-1 {
+  font-family: FontAwesome;
+  font-weight: normal;
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+i {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 6px;
+}
